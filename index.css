@@ -1,0 +1,764 @@
+.imac-1-child {
+  	position: absolute;
+  	top: 3465px;
+  	left: 1036px;
+  	border-radius: 25px;
+  	background-color: #6c63ff;
+  	width: 223px;
+  	height: 300px;
+}
+.lokasi {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	display: inline-block;
+  	text-align: center;
+  	width: 104px;
+  	height: 19px;
+}
+.service {
+  	position: absolute;
+  	top: 0px;
+  	left: 161px;
+}
+.rating-ulasann {
+  	position: absolute;
+  	top: 0px;
+  	left: 280px;
+}
+.navigation {
+  	position: absolute;
+  	top: 26px;
+  	left: 786px;
+  	width: 423px;
+  	height: 20px;
+  	font-size: 16px;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #6c63ff;
+  	border: 1.5px solid #353434;
+  	box-sizing: border-box;
+  	width: 146px;
+  	height: 50px;
+}
+.book-now {
+  	position: absolute;
+  	top: 15px;
+  	left: 24px;
+  	font-weight: 500;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 277px;
+  	left: 0px;
+  	width: 146px;
+  	height: 50px;
+  	color: #fff;
+}
+.perawatan-terbaik-untuk {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 40px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 423px;
+  	height: 100px;
+}
+.side-heading-child {
+  	position: absolute;
+  	top: 154.5px;
+  	left: 2.5px;
+  	border-top: 3px solid #638fff;
+  	box-sizing: border-box;
+  	width: 120px;
+  	height: 3px;
+}
+.pengalaman-berkendara-yang {
+  	position: absolute;
+  	top: 156px;
+  	left: 0px;
+  	font-size: 20px;
+  	display: inline-block;
+  	width: 381px;
+  	height: 67px;
+  	opacity: 0.6;
+}
+.side-heading {
+  	position: absolute;
+  	top: 180px;
+  	left: 61px;
+  	width: 423px;
+  	height: 327px;
+  	font-size: 16px;
+}
+.best-service-kami {
+  	position: absolute;
+  	top: 0px;
+  	left: 271px;
+  	font-size: 44px;
+  	font-weight: 600;
+  	text-align: left;
+}
+.section-2-child {
+  	position: absolute;
+  	top: 73.5px;
+  	left: 456.5px;
+  	border-top: 3px solid #b7b3b3;
+  	box-sizing: border-box;
+  	width: 52px;
+  	height: 3px;
+}
+.berikut-adalah-best {
+  	position: absolute;
+  	top: 96px;
+  	left: 171px;
+  	font-size: 25px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 639px;
+  	height: 63px;
+  	opacity: 0.6;
+}
+.whatsapp-image-2024-11-30-at-1 {
+  	position: absolute;
+  	top: 239px;
+  	left: 69px;
+  	border-radius: 50%;
+  	width: 207px;
+  	height: 207px;
+  	object-fit: cover;
+}
+.images-2-icon {
+  	position: absolute;
+  	top: 239px;
+  	left: 705px;
+  	border-radius: 50%;
+  	width: 207px;
+  	height: 207px;
+  	object-fit: cover;
+}
+.tune-up {
+  	position: absolute;
+  	top: 502px;
+  	left: 110px;
+  	font-weight: 600;
+}
+.onderstel {
+  	position: absolute;
+  	top: 502px;
+  	left: 429px;
+  	font-weight: 600;
+}
+.overhoul {
+  	position: absolute;
+  	top: 502px;
+  	left: 762px;
+  	font-weight: 600;
+}
+.tune-up-penting-untuk {
+  	margin: 0;
+}
+.tune-up-penting-untuk-container {
+  	position: absolute;
+  	top: 546px;
+  	left: 0px;
+  	font-size: 14px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 337px;
+  	opacity: 0.6;
+}
+.servis-onderstel-penting-container {
+  	position: absolute;
+  	top: 546px;
+  	left: 330px;
+  	font-size: 14px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 337px;
+  	opacity: 0.6;
+}
+.images-4-icon {
+  	position: absolute;
+  	top: 239px;
+  	left: 387px;
+  	border-radius: 50%;
+  	width: 207px;
+  	height: 207px;
+  	object-fit: cover;
+}
+.servis-overhaul-penting-container {
+  	position: absolute;
+  	top: 546px;
+  	left: 667px;
+  	font-size: 14px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 337px;
+  	height: 33px;
+  	opacity: 0.6;
+}
+.section-2 {
+  	position: absolute;
+  	top: 744px;
+  	left: 142px;
+  	width: 1004px;
+  	height: 648px;
+  	text-align: center;
+  	font-size: 27px;
+}
+.imac-1-item {
+  	position: absolute;
+  	top: 1444px;
+  	left: 0px;
+  	background-color: #fffcfc;
+  	width: 1280px;
+  	height: 580px;
+}
+.imac-1-inner {
+  	position: absolute;
+  	top: 1428px;
+  	left: -16px;
+  	border-radius: 50%;
+  	background-color: #f2f2f2;
+  	width: 305px;
+  	height: 305px;
+  	opacity: 0.7;
+}
+.undraw-sign-in-e6hj-1-icon {
+  	position: absolute;
+  	top: 1553px;
+  	left: 65px;
+  	width: 495px;
+  	height: 298px;
+  	overflow: hidden;
+}
+.lokasi-ulasan {
+  	position: absolute;
+  	top: 1628px;
+  	left: 756px;
+  	font-size: 40px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 423px;
+  	height: 100px;
+}
+.kalian-bisa-menemukan {
+  	position: absolute;
+  	top: 1754px;
+  	left: 756px;
+  	font-size: 20px;
+  	display: inline-block;
+  	width: 423px;
+  	opacity: 0.75;
+}
+.lokasi1 {
+  	position: absolute;
+  	top: 1841px;
+  	left: 756px;
+  	font-size: 22px;
+  	letter-spacing: 0.06em;
+  	font-weight: 600;
+  	color: #6c63ff;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 1872px;
+  	left: 967px;
+  	background-color: #f6f5f5;
+  	width: 298px;
+  	height: 152px;
+  	opacity: 0.6;
+}
+.tune-up-ganti-container {
+  	position: absolute;
+  	top: 2204px;
+  	left: 444px;
+  	font-weight: 600;
+  	color: #b7b3b3;
+  	text-align: center;
+  	opacity: 0.8;
+}
+.group-icon {
+  	position: absolute;
+  	top: 1981px;
+  	left: 99px;
+  	width: 1075.5px;
+  	height: 1072.2px;
+  	object-fit: contain;
+  	opacity: 0.5;
+}
+.imac-1-child1 {
+  	position: absolute;
+  	top: 2946px;
+  	left: 0px;
+  	background-color: #6c63ff;
+  	width: 1280px;
+  	height: 442px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 3111px;
+  	left: 332px;
+  	border-radius: 50%;
+  	background-color: #e6e8ec;
+  	width: 371px;
+  	height: 371px;
+  	opacity: 0.25;
+}
+.imac-1-child2 {
+  	position: absolute;
+  	top: 2976px;
+  	left: 1008px;
+  	border-radius: 50%;
+  	background-color: #e5e5e5;
+  	width: 195px;
+  	height: 195px;
+  	opacity: 0.25;
+}
+.imac-1-child3 {
+  	position: absolute;
+  	top: 2976px;
+  	left: 117px;
+  	border-radius: 50%;
+  	background-color: #e5e5e5;
+  	width: 195px;
+  	height: 195px;
+  	opacity: 0.25;
+}
+.apa {
+  	margin-block-start: 0;
+  	margin-block-end: 11px;
+}
+.apa-kata-mereka-container {
+  	position: absolute;
+  	top: 3008px;
+  	left: 117px;
+  	font-size: 33px;
+  	font-weight: 300;
+  	color: #fff;
+}
+.line-div {
+  	position: absolute;
+  	top: 3217px;
+  	left: 120px;
+  	border-top: 2px solid #fff;
+  	box-sizing: border-box;
+  	width: 60px;
+  	height: 2px;
+  	opacity: 0.8;
+}
+.selengkapnya {
+  	position: absolute;
+  	top: 3249px;
+  	left: 117px;
+  	font-size: 22px;
+  	color: #fff;
+}
+.group-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 50%;
+  	background-color: #fff;
+  	width: 36px;
+  	height: 36px;
+}
+.div {
+  	position: absolute;
+  	top: 4px;
+  	left: 12px;
+}
+.ellipse-parent {
+  	position: absolute;
+  	top: 3245px;
+  	left: 276px;
+  	width: 36px;
+  	height: 36px;
+  	font-size: 22px;
+}
+.imac-1-child4 {
+  	position: absolute;
+  	top: 3008px;
+  	left: 439px;
+  	border-radius: 15px;
+  	background-color: #fff;
+  	width: 298px;
+  	height: 306px;
+}
+.imac-1-child5 {
+  	position: absolute;
+  	top: 3008px;
+  	left: 755px;
+  	border-radius: 15px;
+  	background-color: #fff;
+  	width: 298px;
+  	height: 306px;
+}
+.imac-1-child6 {
+  	position: absolute;
+  	top: 3008px;
+  	left: 1072px;
+  	border-radius: 15px;
+  	background-color: #fff;
+  	width: 298px;
+  	height: 306px;
+}
+.layanan-bagus-ramah {
+  	position: absolute;
+  	top: 3031px;
+  	left: 465px;
+  	line-height: 175.9%;
+  	display: inline-block;
+  	font-weight: 500;
+  	width: 218px;
+  	height: 140px;
+}
+.lorem-ipsum-dolor {
+  	position: absolute;
+  	top: 3031px;
+  	left: 783px;
+  	font-size: 20px;
+  	line-height: 175.9%;
+  	display: inline-block;
+  	font-weight: 500;
+  	width: 218px;
+}
+.lorem-ipsum-dolor1 {
+  	position: absolute;
+  	top: 3031px;
+  	left: 1101px;
+  	font-size: 20px;
+  	line-height: 175.9%;
+  	display: inline-block;
+  	font-weight: 500;
+  	width: 218px;
+}
+.ellipse-icon {
+  	position: absolute;
+  	top: 3231px;
+  	left: 783px;
+  	border-radius: 50%;
+  	width: 59px;
+  	height: 59px;
+  	object-fit: cover;
+}
+.imac-1-child7 {
+  	position: absolute;
+  	top: 3231px;
+  	left: 1101px;
+  	border-radius: 50%;
+  	width: 59px;
+  	height: 59px;
+  	object-fit: cover;
+}
+.nyoman-darmayasa {
+  	position: absolute;
+  	top: 3234px;
+  	left: 537px;
+  	line-height: 175.9%;
+  	font-weight: 600;
+}
+.dev-opter {
+  	position: absolute;
+  	top: 3227px;
+  	left: 861px;
+  	font-size: 20px;
+  	line-height: 175.9%;
+  	font-weight: 600;
+}
+.dev-opter1 {
+  	position: absolute;
+  	top: 3227px;
+  	left: 1179px;
+  	font-size: 20px;
+  	line-height: 175.9%;
+  	font-weight: 600;
+}
+.customer {
+  	position: absolute;
+  	top: 3258px;
+  	left: 537px;
+  	font-size: 16px;
+  	line-height: 175.9%;
+  	font-weight: 600;
+  	color: #787777;
+}
+.designer {
+  	position: absolute;
+  	top: 3258px;
+  	left: 861px;
+  	font-size: 16px;
+  	line-height: 175.9%;
+  	font-weight: 600;
+  	color: #787777;
+}
+.designer1 {
+  	position: absolute;
+  	top: 3258px;
+  	left: 1179px;
+  	font-size: 16px;
+  	line-height: 175.9%;
+  	font-weight: 600;
+  	color: #787777;
+}
+.lorem-ipsum-dolor2 {
+  	position: absolute;
+  	top: 3568px;
+  	left: 121px;
+  	font-weight: 600;
+  	color: #b7b3b3;
+  	display: inline-block;
+  	width: 317px;
+  	height: 90px;
+}
+.products {
+  	position: absolute;
+  	top: 3495px;
+  	left: 544px;
+  	font-weight: 600;
+  	color: #8b8b8b;
+}
+.products1 {
+  	position: absolute;
+  	top: 3557px;
+  	left: 544px;
+  	font-weight: 600;
+}
+.products2 {
+  	position: absolute;
+  	top: 3619px;
+  	left: 544px;
+  	font-weight: 600;
+}
+.products3 {
+  	position: absolute;
+  	top: 3681px;
+  	left: 544px;
+  	font-weight: 600;
+}
+.about {
+  	position: absolute;
+  	top: 3495px;
+  	left: 709px;
+  	font-weight: 600;
+  	color: #8b8b8b;
+  	display: inline-block;
+  	width: 85px;
+}
+.about1 {
+  	position: absolute;
+  	top: 3557px;
+  	left: 709px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 85px;
+}
+.about2 {
+  	position: absolute;
+  	top: 3619px;
+  	left: 709px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 85px;
+}
+.about3 {
+  	position: absolute;
+  	top: 3681px;
+  	left: 709px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 85px;
+}
+.about4 {
+  	position: absolute;
+  	top: 3743px;
+  	left: 709px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 85px;
+}
+.catalog {
+  	position: absolute;
+  	top: 3495px;
+  	left: 875px;
+  	font-weight: 600;
+  	color: #8b8b8b;
+  	display: inline-block;
+  	width: 85px;
+}
+.social-contacts {
+  	position: absolute;
+  	top: 3494px;
+  	left: 1056px;
+  	font-size: 22px;
+  	font-weight: 800;
+  	color: #fff;
+}
+.catalog1 {
+  	position: absolute;
+  	top: 3557px;
+  	left: 875px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 85px;
+}
+.catalog2 {
+  	position: absolute;
+  	top: 3619px;
+  	left: 875px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 85px;
+}
+.catalog3 {
+  	position: absolute;
+  	top: 3681px;
+  	left: 875px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 85px;
+}
+.imac-1-child8 {
+  	position: absolute;
+  	top: 3538px;
+  	left: 1169px;
+  	border-radius: 50%;
+  	width: 57px;
+  	height: 57px;
+  	object-fit: cover;
+}
+.imac-1-child9 {
+  	position: absolute;
+  	top: 3606px;
+  	left: 1169px;
+  	border-radius: 50%;
+  	width: 57px;
+  	height: 57px;
+  	object-fit: cover;
+}
+.imac-1-child10 {
+  	position: absolute;
+  	top: 3674px;
+  	left: 1169px;
+  	border-radius: 50%;
+  	width: 57px;
+  	height: 57px;
+  	object-fit: cover;
+}
+.facebook {
+  	position: absolute;
+  	top: 3551px;
+  	left: 1055px;
+  	font-size: 22px;
+  	font-weight: 500;
+  	color: #fff;
+}
+.github {
+  	position: absolute;
+  	top: 3618px;
+  	left: 1055px;
+  	font-size: 22px;
+  	font-weight: 500;
+  	color: #fff;
+}
+.twitter {
+  	position: absolute;
+  	top: 3685px;
+  	left: 1055px;
+  	font-size: 22px;
+  	font-weight: 500;
+  	color: #fff;
+}
+.images-1-1 {
+  	position: absolute;
+  	top: 167px;
+  	left: 621px;
+  	width: 579px;
+  	height: 473px;
+  	object-fit: cover;
+}
+.div1 {
+  	position: absolute;
+  	top: 10px;
+  	left: 101px;
+  	font-size: 20px;
+  	font-family: 'Old Standard TT';
+  	display: inline-block;
+  	width: 85px;
+  	height: 19px;
+}
+.car-solution {
+  	position: absolute;
+  	top: 30px;
+  	left: 101px;
+  	font-size: 24px;
+  	font-family: Paprika;
+  	display: inline-block;
+  	width: 160px;
+  	height: 28px;
+}
+.n-removebg-preview-1-1 {
+  	position: absolute;
+  	top: 3231px;
+  	left: 469px;
+  	width: 55px;
+  	height: 55px;
+  	object-fit: cover;
+}
+.desain-tanpa-judul-4-1-1 {
+  	position: absolute;
+  	top: -2px;
+  	left: -2px;
+  	width: 103px;
+  	height: 92px;
+  	object-fit: cover;
+}
+.desain-tanpa-judul-4-1-2 {
+  	position: absolute;
+  	top: 2033px;
+  	left: 27px;
+  	width: 123px;
+  	height: 103px;
+  	object-fit: cover;
+}
+.desain-tanpa-judul-5-1 {
+  	position: absolute;
+  	top: 2330px;
+  	left: 109px;
+  	width: 147px;
+  	height: 147px;
+  	object-fit: cover;
+}
+.desain-tanpa-judul-6-1 {
+  	position: absolute;
+  	top: 2335px;
+  	left: 640px;
+  	width: 179px;
+  	height: 142px;
+  	object-fit: cover;
+}
+.desain-tanpa-judul-7-1 {
+  	position: absolute;
+  	top: 2578px;
+  	left: 87px;
+  	width: 169px;
+  	height: 165px;
+  	object-fit: cover;
+}
+.imac-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 3872px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 18px;
+  	color: #000;
+  	font-family: Montserrat;
+}
+
